@@ -1,5 +1,14 @@
 {
  "v": "1.7.0",
- "updated": 1794937649.1185021,
- "users": {}
+ "updated": 1794937972.8980238,
+ "users": {
+  "72ebb013be0e1b56": {
+   "display": "Ice",
+   "plan": "life",
+   "start": "2026-11-18",
+   "exp": "",
+   "wuk": "U2FsdGVkX1+ruL8fGxJSbA/ANPwEwQfV+Aj2TSfWfRVOIqG7fpi971SjCETW1oHys324Z3T5W7Nw9DImOXKmmf90Ow2h6qrmMZWqbiBjqq0N1CygD2JY1n5kzO4B9G5+",
+   "wk": "U2FsdGVkX1/YigwEyncKX9IPtfS+ZQCQTf2bfFrDCcJZmL7VsWftfzJel8S9xUk/sufi+WYTFXHCVXXFnDwLukPEOKfSYx1zfGHfzpQD34zeNCGppUtlDvJyVnGKICTi"
+  }
+ }
 }
