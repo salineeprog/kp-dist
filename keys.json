@@ -1,14 +1,22 @@
 {
  "v": "1.7.0",
- "updated": 1794965622.4302907,
+ "updated": 1794966038.9463964,
  "users": {
+  "0c25e1833c83384c": {
+   "display": "Stu1",
+   "plan": "life",
+   "start": "2026-11-18",
+   "exp": "",
+   "wuk": "U2FsdGVkX18qUH2Pwe9K8FNtiF9swreT+D/OMdaqFv3zHQewAiNKyCjsJc856FWPpZuHpjDGP/VzZVIKGUFeuIu3owYUW86wP1iEk3+PpKKTofoO26ZRr7SPqzWfNLox",
+   "wk": "U2FsdGVkX19SSMS03nGIl9xyQ6W69i4pVhb6qgT834nBnkgUHAMfg9G6u6UdgKZfFtHdtGtXUD4OhMhdpkpIKx+5Tbxq1Z4ekY3b6HWbgY6i0JE4c579LeI7BHtriNt8"
+  },
   "72ebb013be0e1b56": {
    "display": "Ice",
    "plan": "life",
    "start": "2026-11-18",
    "exp": "",
    "wuk": "U2FsdGVkX1+ruL8fGxJSbA/ANPwEwQfV+Aj2TSfWfRVOIqG7fpi971SjCETW1oHys324Z3T5W7Nw9DImOXKmmf90Ow2h6qrmMZWqbiBjqq0N1CygD2JY1n5kzO4B9G5+",
-   "wk": "U2FsdGVkX18dmUc1KRL3w7qYu1iOkKP0BR0gn3TuJ9fWL4Dmne+3Jcn8IG2wSrRHgIjb/kJ7jWibJDCSPKskDnLBWfT+N6Jgef9O3g4Hb4ZUu3WoxabFQbqTv9n5zjgp"
+   "wk": "U2FsdGVkX1/9TTRNxYZ+/mx8GIZBXhibLThcxZD7dWoF2JcIR5Dw0IHw4/4D2L/d8bQ0Vw1f8DHJJnhhZzcFM6+qMbj5azmyQyPNEB5THJuPa0OWASpDIxwRBHPcutMk"
   }
  }
 }
